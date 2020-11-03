@@ -1,3 +1,3 @@
-module github.com/UsernameNotAvalible/JoyCOnGui
+module github.com/UsernameNotAvalible/JoyCOnGui/JCOG
 
 go 1.15
